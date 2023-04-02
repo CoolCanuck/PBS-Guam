@@ -1,0 +1,18 @@
+#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
+
+#########################################################################
+#      ____            _           _   __  __                           #
+#     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
+#     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
+#     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
+#     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
+#                   |__/                                                #
+#                                  >> https://github.com/benmoose39     #
+#########################################################################
+
+
+#EXTINF:-1 group-title="Canada" tvg-logo="" tvg-id="", The New Classical FM
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1680437747/ei/kx0pZO_tDZGikgaJtbaoBA/ip/13.88.61.33/id/RXINzvmGAw8.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAP26bnAaRz0h9PKzF7_vDv0sj1NO350HUnkJewnR20mbAiAs5emmzzFR880mbZFpiqCoka_GefYt6_2PGOKaG4tB5A%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Guam" tvg-logo="" tvg-id="", PBS Guam
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1680437747/ei/kx0pZJONK5LakgaZi5uoAQ/ip/13.88.61.33/id/k9ul4pV31NQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgWYcNd4W9mdUzjmFAD2EzkAe8NfexcqXzGj9YBEWpoUUCIQDJpFFCbdG8lyQhiFsAopPDUrzmlgOurIBQGAPs165rQg%3D%3D/file/index.m3u8
