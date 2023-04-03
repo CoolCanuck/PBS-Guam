@@ -1,5 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-
-#EXTINF:-1 group-title="Guam" tvg-logo="" tvg-id="", PBS Guam
+#EXTINF:0
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1680511513/ei/uT0qZLfVEPCtlu8PoMehSA/ip/13.65.72.208/id/k9ul4pV31NQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPSZmysgsngYPVL5hQiI1zG5up9564rCeDxut7vejmQLAiEA4nVpKQ7tlApJZCNB9jQbB5ZXso97OVNcewRfrg-6mv0%3D/file/index.m3u8
