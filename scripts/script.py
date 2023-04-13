@@ -47,7 +47,7 @@ def grab(url):
     print(f"{link[start : end]}")
 
 print('#EXTM3U')
-print('#EXT-X-VERSION:3')
+#print('#EXT-X-VERSION:3')
 print('#EXTINF:0')
 #s = requests.Session()
 #with sys.argv[1] as f:
