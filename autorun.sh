@@ -16,7 +16,7 @@ python3 script.py https://www.youtube.com/watch?v=BahXDYWQAKk > ../streams/cam-r
 python3 script.py https://www.youtube.com/watch?v=S26YOMAD290 > ../streams/cam-airport-MDW-il.m3u8
 python3 script.py https://www.youtube.com/watch?v=kxwuFPFUZyY > ../streams/cam-views-niagarafalls-on.m3u8
 python3 script.py https://www.youtube.com/watch?v=WBvHHNXXeqw > ../streams/cam-beach-ftlauderdale-fl.m3u8
-python3 script.py https://www.youtube.com/watch?v=EPKWu223XEg> ../streams/cam-city-collingwood-on.m3u8
+python3 script.py https://www.youtube.com/watch?v=EPKWu223XEg > ../streams/cam-city-collingwood-on.m3u8
 
 
 echo m3u grabbed
