@@ -46,8 +46,8 @@ def grab(url):
             tuner += 5
     print(f"{link[start : end]}")
 
-print('#EXTM3U')
-print('#EXT-X-VERSION:3')
+#print('#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"')
+#print(banner)
 #s = requests.Session()
 with open('../youtube_channel_info.txt') as f:
     for line in f:
@@ -57,10 +57,10 @@ with open('../youtube_channel_info.txt') as f:
         if not line.startswith('https:'):
             line = line.split('|')
             ch_name = line[0].strip()
-            grp_title = line[1].strip().title()
-            tvg_logo = line[2].strip()
-            tvg_id = line[3].strip()
-            print(f'\n#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}", {ch_name}')
+   #         grp_title = line[1].strip().title()
+   #         tvg_logo = line[2].strip()
+   #         tvg_id = line[3].strip()
+            print(f'/{ch_name} ')
         else:
             grab(line)
             
