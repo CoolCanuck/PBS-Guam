@@ -44,7 +44,7 @@ def grab(url):
             break
         else:
             tuner += 5
-    print(f"{link[start : end]}")
+    print(f"{link[start : end]} 301")
 
 #print('#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"')
 #print(banner)
@@ -60,7 +60,7 @@ with open('../youtube_channel_info.txt') as f:
    #         grp_title = line[1].strip().title()
    #         tvg_logo = line[2].strip()
    #         tvg_id = line[3].strip()
-            print(f'/{ch_name} ')
+            print(f'/{ch_name}',end=" ")
         else:
             grab(line)
             
