@@ -1,5 +1,8 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-PBS Guam | Guam | | 
+PBS-Guam | Guam | | 
 https://www.youtube.com/user/pbsguam/live
+
+TheWorldLive |
+https://www.youtube.com/watch?v=b-PyEswUenE
