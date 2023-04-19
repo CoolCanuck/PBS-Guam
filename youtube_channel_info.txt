@@ -1,20 +1,26 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-PBS-Guam | Guam | | 
+TV-PBS-Guam | Guam | | 
 https://www.youtube.com/user/pbsguam/live
 
-TheWorldLive |
+Cam-TheWorldLive |
 https://www.youtube.com/watch?v=b-PyEswUenE
 
-NiagaraFallsON |
+Cam-NiagaraFalls-ON |
 https://www.youtube.com/@niagarafallslive1566/live
 
-TownOfCollingwoodON |
+Cam-TownOfCollingwoodON |
 https://www.youtube.com/watch?v=EPKWu223XEg
 
-Hummingbird |
+Cam-Hummingbird |
 https://www.youtube.com/@HummingbirdSpot/live
 
-Railway-Revelstoke-BC
+Cam-Railway-Revelstoke-BC |
 https://www.youtube.com/watch?v=BahXDYWQAKk
+
+Cam-FtLauderdaleBeach |
+https://www.youtube.com/watch?v=WBvHHNXXeqw
+
+Cam-Birds-OH |
+https://www.youtube.com/watch?v=MtGUTs_HgcE
